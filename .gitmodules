@@ -1,0 +1,6 @@
+[submodule "Libraries/void_switch_kicad"]
+	path = Libraries/void_switch_kicad
+	url = https://github.com/becauseimclever/void_switch_kicad.git
+[submodule "Libraries/void_switch"]
+	path = Libraries/void_switch
+	url = https://github.com/becauseimclever/void_switch.git
