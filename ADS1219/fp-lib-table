@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ADS1219")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ADS1219IPW/KiCAD/2022-05-10_03-32-32/footprints.pretty")(options "")(descr ""))
+  (lib (name "sym")(type "KiCad")(uri "C:/ws/BreakoutBoards/ADS1219")(options "")(descr "")(disabled))
+  (lib (name "NCP51460SN33T1G")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_NCP51460SN33T1G/KiCAD/2022-10-15_14-41-10/footprints.pretty")(options "")(descr ""))
+  (lib (name "CompressionConnectors")(type "KiCad")(uri "C:/ws/IceBox/Libraries/IPS_4102T_01Y900/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

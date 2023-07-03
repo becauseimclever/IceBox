@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "voidswitch")(type "KiCad")(uri "C:/ws/IceBox/Libraries/voidswitch.pretty")(options "")(descr ""))
+)
