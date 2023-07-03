@@ -4,3 +4,6 @@
 [submodule "Libraries/void_switch"]
 	path = Libraries/void_switch
 	url = https://github.com/becauseimclever/void_switch.git
+[submodule "Libraries/KiCad-RP-Pico"]
+	path = Libraries/KiCad-RP-Pico
+	url = https://github.com/Fortinbra/KiCad-RP-Pico.git
